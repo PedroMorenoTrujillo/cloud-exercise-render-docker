@@ -1,5 +1,5 @@
 Deploy in Render
-https://cloud-exercise-render-docker.onrender.com/puppie
+https://cloud-exercise-render-docker.onrender.com
 
 
 Docker Hub repository: 
